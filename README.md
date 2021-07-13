@@ -2,6 +2,13 @@
 An Arduino sketch which turns an Atom Matrix into a digital dice (d6).
 Just press the button to roll the dice.
 
+![Number 1](img/number-1.jpg)
+![Number 2](img/number-2.jpg)
+![Number 3](img/number-3.jpg)
+![Number 4](img/number-4.jpg)
+![Number 5](img/number-5.jpg)
+![Number 6](img/number-6.jpg)
+
 ## Requirements
 Hardware:
 
