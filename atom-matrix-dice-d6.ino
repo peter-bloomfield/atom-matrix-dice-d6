@@ -83,6 +83,6 @@ void loop()
     drawNumber(getRandomDiceRoll(), g_foregroundColour);
   }
   
-  delay(100);
+  delay(25);
   M5.update();
 }
