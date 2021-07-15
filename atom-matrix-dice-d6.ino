@@ -77,7 +77,6 @@ void loop()
   // Show a random number when the button is released.
   if (M5.Btn.wasReleased())
   {
-    M5.dis.clear();
     for (uint8_t i{ 0 }; i < 25; ++i)
       M5.dis.drawpix(i, g_backgroundColour);
     
